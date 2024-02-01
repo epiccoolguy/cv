@@ -1,0 +1,32 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+}
+
+.ul,
+.ol {
+  list-style: circle;
+}
+
+.ulRow,
+.olRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left {
+  display: flex;
+  margin-right: 2em;
+}
+
+.right {
+  display: flex;
+  flex-grow: 1;
+}

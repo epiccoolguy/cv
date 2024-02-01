@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  height: 3cm;
+  min-height: 3cm;
+  max-height: 3cm;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-right: 2em;
+  align-self: center;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
+  width: 5.25cm;
+  min-width: 5.25cm;
+  max-width: 5.25cm;
+  margin-left: 2em;
+}
+
+.h1 {
+  margin-bottom: 0.25em;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: contain;
+}
+
+.photo-container {
+  height: 100%;
+  border-width: 0.1cm;
+  border-color: tan;
+  overflow: hidden;
+}

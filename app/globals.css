@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 214, 219, 220;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-rgb: 0, 0, 0;
+  }
+}
+
+body,
+html {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+h1 {
+  font-size: 30pt;
+  margin-bottom: -0.25em;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 22pt;
+  margin-top: -0.25em;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 16pt;
+  page-break-after: avoid;
+}
+
+h4 {
+  font-size: 12pt;
+  page-break-after: avoid;
+}
+
+p {
+  font-size: 10pt;
+}
+
+li {
+  font-size: 10pt;
+}
+
+/* // 2.75em; // 33 pt
+// 1.75em; // 21 pt
+// 1.5em; // 18 pt
+// 1.25em; // 15 pt
+// 1em; // 12 pt */

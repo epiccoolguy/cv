@@ -1,0 +1,23 @@
+.paper {
+  display: flex;
+  align-self: center;
+
+  width: 21cm;
+  padding: 2cm;
+
+  background: white;
+  color: black;
+}
+
+@page :first {
+  size: 21cm 29.7cm;
+  margin: 0;
+  margin-bottom: 2cm;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+}

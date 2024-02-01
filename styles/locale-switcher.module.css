@@ -1,0 +1,10 @@
+.switcher {
+  display: flex;
+  justify-content: center;
+}
+
+@media print {
+  .switcher {
+    display: none;
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "author": "Miguel Lo-A-Foe",
+  "title": "Software Engineer",
+  "headings": {
+    "introduction": "Introductie",
+    "experience": "Ervaring",
+    "projects": "Projecten",
+    "contact": "Contact",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "github": "Github",
+    "linkedin": "LinkedIn",
+    "skills": "Vaardigheden",
+    "education": "Opleiding",
+    "languages": "Talen",
+    "competitions": "Wedstrijden",
+    "interests": "Interesses"
+  },
+  "introduction": "Ik ben een doelgerichte Software Engineer met meer dan 5 jaar ervaring in interne software ontwikkeling en consultancy voor multinationale ondernemingen wereldwijd. Ik vind het leuk om uitgebreide kennis op te doen over nieuwe technologieën om zo bij te kunnen dragen aan projecten en teams.",
+  "experience": [
+    {
+      "title": "Lead Software Engineer",
+      "company": "Kryha, Amsterdam",
+      "period": "2018 - 2023",
+      "responsibilities": [
+        "Leiding gegeven aan een team van 6 andere developers, waarvan 3 junior-medior en 3 medior-senior.",
+        "Met stakeholders de technische scope en requirements bepaald om op tijd kwaliteit af te kunnen leveren.",
+        "De fundamentele architectuur  geschreven, waarin concepten, ontwerpen en de redenering worden uiteengezet.",
+        "Fundamentele microservices geïmplementeerd die dagelijks miljoenen datapunten kunnen verwerken.",
+        "Publieke cloudinfrastructuur ingericht en beheerd voor meer dan 100 unieke sites over de hele wereld.",
+        "CI/CD pipelines ontwikkeld en onderhouden, met focus op geautomatiseerde tests en veiligheidstests."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ReSource",
+      "company": "ReSource Consortium",
+      "period": "2021 - 2023",
+      "href": "https://re-source.tech/about-us/",
+      "description": [
+        "ReSource is het eerste gedecentraliseerde platform dat succesvol batterijmaterialen wereldwijd traceert, van mijnen tot fabrikanten van elektrische voertuigen, voor het creëren van batterijpaspoorten.",
+
+        "Ik leidde het ontwerp en de implementatie van kernplatformfuncties en infrastructuur vanaf het begin van de ontwikkeling van het project. Voor deze verantwoordelijkheid had ik discussies met architecten uit het consortium en stemde de requirements af met ons interne design en technische team.",
+
+        "Ik was verantwoordelijk voor het inrichten en onderhouden van de publieke cloudinfrastructuur, het integreren van diverse externe clouddiensten en het implementeren van de tooling vereist voor de ontwikkeling en uitrol van het platform.",
+
+        "Ik heb junior developers begeleid vanaf het oppikken van hun eerste testtaken tot het zelfstandig schetsen en implementeren van nieuwe systeemarchitectuur ontwerpen. Ik was ook verantwoordelijke voor het evalueren van het team en met hen persoonlijke ontwikkelingsplannen maken.",
+
+        "Toen het project zich in de laatste fasen bevond, was ik verantwoordelijk voor de overdracht van het live platform aan het interne ontwikkelingsteam van het consortium. Dit omvatte het creëren van uitgebreide documentatie en trainingssessies voor het nieuwe team."
+      ]
+    },
+    {
+      "name": "Aleo Explorer",
+      "company": "Aleo",
+      "period": "2020",
+      "href": "https://explorer.aleo.org/",
+      "description": [
+        "De Aleo Explorer is een webplatform ontworpen om gedetailleerde informatie te bieden over het Aleo blockchain-netwerk. Gebruikers kunnen data opzoeken gerelateerd aan de blokken, transacties en accounts in het Aleo-ecosysteem.",
+
+        "Ik heb gewerkt aan het containeriseren van de Aleo-node (snarkOS) en vervolgens de backend geïmplementeerd voor het ophalen en cachen van de data in de node voor weergave in de frontend."
+      ]
+    },
+    {
+      "name": "Falcon",
+      "company": "Shell",
+      "period": "2019 - 2020",
+      "href": "https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/blockchain/decentralised-digital-passport-boosts-supply-chain-efficiency.html",
+      "description": [
+        "Falcon is een MVP platform dat tot doel heeft papieren audits van machineonderdelen te vervangen door een digitaal audittraject dat verschillende bedrijven in de olie- en gastoeleveringsketen met elkaar verbindt.",
+
+        "Ik heb gewerkt aan het ontwerpen en implementeren van de backend microservices van het platform."
+      ]
+    },
+    {
+      "name": "reciChain",
+      "company": "BASF",
+      "period": "2019",
+      "href": "https://www.basf.com/ca/en/who-we-are/sustainability/Sustainability-in-Canada/reciChain.html",
+      "description": [
+        "reciChain is een initiatief ontwikkeld voor BASF dat gebruikmaakt van blockchain om de traceerbaarheid en circulatie van kunststoffen in de waardeketen te verbeteren.",
+
+        "Mijn taak was het bedenken, ontwikkelen en uitrollen van de smart contracts en blockchain infrastructuur."
+      ]
+    }
+  ],
+  "contact": {
+    "phone": "+31 6 250 275 04",
+    "email": "miguel.loafoe@gmail.com",
+    "github": "epiccoolguy",
+    "linkedin": "miguel-lo-a-foe"
+  },
+  "skills": [
+    "TypeScript",
+    "Node.js",
+    "Go",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Microservices",
+    "Event-Driven Architecture",
+    "Serverless",
+    "REST APIs"
+  ],
+  "education": [
+    {
+      "title": "Technische Informatica (BSc)",
+      "institute": "Hogeschool Rotterdam",
+      "minor": "Embedded Systems",
+      "period": "2011 - 2017"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Nederlands",
+      "level": "moedertaal"
+    },
+    {
+      "name": "Engels",
+      "level": "C2 CPE"
+    }
+  ],
+  "competitions": [
+    {
+      "name": "Odyssey Hackathon",
+      "period": "2019",
+      "position": "1e plaats",
+      "description": ["Nature 2.0 track"]
+    }
+  ],
+  "interests": [
+    "Embedded Systems",
+    "Cloud-Native Architecture",
+    "Machine Learning",
+    "Philosophy"
+  ]
+}

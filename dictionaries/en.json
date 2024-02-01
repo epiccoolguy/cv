@@ -1,0 +1,141 @@
+{
+  "author": "Miguel Lo-A-Foe",
+  "title": "Software Engineer",
+  "headings": {
+    "introduction": "Introduction",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "github": "Github",
+    "linkedin": "LinkedIn",
+    "skills": "Skills",
+    "education": "Education",
+    "languages": "Languages",
+    "competitions": "Competitions",
+    "interests": "Interests"
+  },
+  "introduction": "I am a goal driven Software Engineer with 5+ years of experience working on in-house software development, as well as providing consultancy for large multinational enterprises worldwide. I enjoy gathering extensive knowledge on new and developing technology in order to contribute to projects and teams.",
+  "experience": [
+    {
+      "title": "Lead Software Engineer",
+      "company": "Kryha, Amsterdam",
+      "period": "2018 - 2023",
+      "responsibilities": [
+        "Led a team of 6 other developers, of which 3 junior-mid and 3 mid-senior.",
+        "Aligned with stakeholders to define technical scope and requirements in order to deliver quality on time.",
+        "Authored the foundational architecture documentation detailing the concepts, technical designs and rationale.",
+        "Implemented fundamental, distributed microservices capable of processing millions of data-points daily.",
+        "Provisioned and managed public cloud infrastructure for 100+ unique sites across the globe.",
+        "Developed and maintained CI/CD pipelines, focusing on automated tests and security checks."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ReSource",
+      "company": "ReSource Consortium",
+      "period": "2021 - 2023",
+      "href": "https://re-source.tech/about-us/",
+      "description": [
+        "ReSource is the first decentralized platform to successfully trace battery materials across the globe from mines to electric vehicle producers for the creation of battery passports.",
+
+        "I led the design and implementation of core platform features and infrastructure from the beginning of the project's development. In order to carry out this responsibility, I had continuous discussions with architects from the consortium and aligned the requirements with our internal design and technical teams.",
+
+        "I was responsible for provisioning and maintaining the public cloud infrastructure, integrating different external cloud services and implementing tooling necessary for development and deployment of the platform.",
+
+        "I guided junior developers from picking up their first test tasks to independently drafting and implementing new system architecture designs. I was also responsible for evaluating the team and creating personal development plans with them.",
+
+        "When the project was in its final stages, I was responsible for the handover of the live platform to the consortium's internal development team. This included the creation of extensive documentation and training sessions for the new team."
+      ]
+    },
+    {
+      "name": "Aleo Explorer",
+      "company": "Aleo",
+      "period": "2020",
+      "href": "https://explorer.aleo.org/",
+      "description": [
+        "The Aleo Explorer is a web platform designed to provide detailed information about the Aleo blockchain network. It allows users to search and explore data related to blocks, transactions, and accounts within the Aleo ecosystem.",
+
+        "I worked on containerizing the Aleo node (snarkOS) and then implemented the backend for retrieving and caching the data from the node for displaying in the frontend."
+      ]
+    },
+    {
+      "name": "Falcon",
+      "company": "Shell",
+      "period": "2019 - 2020",
+      "href": "https://www.shell.com/energy-and-innovation/digitalisation/digital-technologies/blockchain/decentralised-digital-passport-boosts-supply-chain-efficiency.html",
+      "description": [
+        "Falcon is a MVP platform that aims to replace paper-based audits of machine parts with a digital audit trail across multiple companies in the gas and oil supply chain.",
+
+        "I worked on designing and implementing the backend microservices of the platform."
+      ]
+    },
+    {
+      "name": "reciChain",
+      "company": "BASF",
+      "period": "2019",
+      "href": "https://www.basf.com/ca/en/who-we-are/sustainability/Sustainability-in-Canada/reciChain.html",
+      "description": [
+        "reciChain is an initiative developed for BASF that leverages blockchain to improve the traceability and circularity of plastics in the value chain.",
+
+        "I was tasked with architecting, developing and deploying the smart contracts and blockchain infrastructure for the initial pilots."
+      ]
+    }
+  ],
+  "contact": {
+    "phone": "+31 6 250 275 04",
+    "email": "miguel.loafoe@gmail.com",
+    "github": "epiccoolguy",
+    "linkedin": "miguel-lo-a-foe"
+  },
+  "skills": [
+    "TypeScript",
+    "Node.js",
+    "Go",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Microsoft Azure",
+    "Google Cloud Platform",
+    "Microservices",
+    "Event-Driven Architecture",
+    "Serverless",
+    "REST APIs"
+  ],
+  "education": [
+    {
+      "title": "Computer Science (BSc)",
+      "institute": "Hogeschool Rotterdam",
+      "minor": "Embedded Systems",
+      "period": "2011 - 2017"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Dutch",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "C2 CPE"
+    }
+  ],
+  "competitions": [
+    {
+      "name": "Odyssey Hackathon",
+      "period": "2019",
+      "position": "1st place",
+      "description": ["Nature 2.0 track"]
+    }
+  ],
+  "interests": [
+    "Embedded Systems",
+    "Cloud-Native Architecture",
+    "Machine Learning",
+    "Philosophy"
+  ]
+}
